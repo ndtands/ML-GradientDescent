@@ -6,3 +6,4 @@ Cụ thể như tìm các hàm mất mát trong hai bài Linear Regression và K
 ## Nhận xét :
 - Nếu cùng tốc độ học, thì nếu điểm khởi gần điểm cần tìm thì sẽ nhanh hội tụ hơn
 - Nếu tốc độ học nhỏ thì học sẽ chậm nhưng đảm bảo hội tụ. Còn nếu tốc độ học lớn thì học nhanh nhưng có thể không hội tụ được.
+- Một điều quan trọng là kiểm tra tính đạo hàm của hàm số bằng cách tính sai số Gradient với 
